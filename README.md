@@ -6,6 +6,23 @@ This project is simple project about digital design use Verilog hardware descrip
 
 ## About the project
 
+```
+.
+├── src/
+|   ├──datapath.v
+|   ├──controller.v
+|   ├──some sub module
+|
+├── images/
+|   ├──FSM.png
+|   ├──datapath.png
+|
+├── testbench/
+|   ├──reverse_tb.v
+├── README.md
+
+```
+
 ### Algorithms
 
 The Factorial of N is result of multiplication from 1 to N.
@@ -23,8 +40,12 @@ The Factorial of N is result of multiplication from 1 to N.
 
 ### Datapath
 
-![](datapath.png)
+![](/images/datapath.png)
 
 ### FSM
 
-![](fsm.png)
+![](/images/fsm.png)
+
+```
+
+```

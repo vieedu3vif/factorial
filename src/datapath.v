@@ -1,8 +1,8 @@
-`include "add.v"
-`include "mul.v"
-`include "mux.v"
-`include "register.v"
-`include "comp.v"
+`include "src\\add.v"
+`include "src\\mul.v"
+`include "src\\mux.v"
+`include "src\\register.v"
+`include "src\\comp.v"
 module datapath (
     input [7:0] X,
     input CLK,
